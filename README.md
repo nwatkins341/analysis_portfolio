@@ -4,5 +4,7 @@
 
 ## Contact Information: ## 
 noahwatkins341@gmail.com
+<br>
 630-336-4775
+<br>
 www.NoahWatkins.dev (in development)
