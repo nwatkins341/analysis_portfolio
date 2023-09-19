@@ -9,6 +9,7 @@
 While the book data and the author associated with each book are <a href="https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks?resource=download">real</a>, the rest of the data (including author birth date and nationality) was entirely fabricated using Mockaroo and NumPy's randint function. See the data manipulation directory for more details.
 
 ## SQL Questions:
+The majority of the work in this project is in the SQL_Queries.py file. Specifically, I answered the following questions.
 <ol>
 <li>What book or books are taken out most often?</li>
 <li>What are the top 5 (by count) non-English language codes in the book table?</li>
