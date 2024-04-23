@@ -8,4 +8,4 @@ noahwatkins341@gmail.com
 www.NoahWatkins.dev
 
 ## Professional Summary:
-Skilled communicator eager to establish roots in a dedicated Data Analyst role after 7 months of focused study in data analytics, SQL, PowerBI, Excel, and Python. Diverse experience in presenting to stakeholders, adept problem-solving in a team setting, and leveraging relevant technologies to drive positive change.
+Highly-motivated and results-oriented tinkerer with a deep love for data infrastructure seeking employment in the technical data space. Previous experience highlights an innate ability to address pain points with elegant solutions, process confidential data at scale, and  leverage ever-changing technologies to drive positive change.
